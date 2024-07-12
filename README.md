@@ -1,4 +1,7 @@
 # **Hey there 🤙, I'm Carlos**
+
+<!--<img src="/profile.JPG" width="150px" height="auto" border-radius="50%">-->
+
 I am a telecommunications and electronics engineer with **6 years** of experience working in the information technology sector. I develop network infrastructures and secure services IT support.
 
 In addition to my engineering work, I am a design and digital marketing **enthusiast**. I effort to create visual solutions that help connect and interact with people. I have an entrepreneurial spirit and passion for challenging projects. 
